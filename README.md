@@ -29,3 +29,11 @@
     - ':wq' : 저장하고 나가기
   - 구글에 vim 사용법 검색하여 추가 공부 가능
   - 참고자료 : [링크](https://zeddios.tistory.com/122)
+  
+#### 마크다운 문법
+- 외부 링크 추가
+```
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
+```
+Link: [Google](https://google.com, "google link")
