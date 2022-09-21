@@ -118,6 +118,5 @@ git checkout 브랜치명
 or
 
 ```
-
 git switch 브랜치명
 ```
